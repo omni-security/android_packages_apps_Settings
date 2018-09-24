@@ -165,4 +165,9 @@
 
     <string name="toggle_package_install_overlay_check_title">Disable permission overlay check</string>
     <string name="toggle_package_install_overlay_check_summary">WARNING\u003A this disables a security check to prevent possible tapjacking! Use only if you understand the consequences.</string>
+
+    <!-- "Legacy" Security Patch label -->
+    <string name="security_patch_legacy">Unofficial security backport</string>
+    <string name="security_patch_legacy_info">There are no official security patches for this Android version anymore.\nAll patches contained in this build are backports from newer versions.</string>
+
 </resources>
