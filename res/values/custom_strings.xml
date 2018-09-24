@@ -397,4 +397,8 @@
     <string name="app_moving_reboot_now_button">Reboot now</string>
     <string name="app_moving_reboot_later_button">Reboot later</string>
 
+    <!-- "Legacy" Security Patch label -->
+    <string name="security_patch_legacy">Unofficial security backport</string>
+    <string name="security_patch_legacy_info">There are no official security patches for this Android version anymore.\nAll patches contained in this build are backports from newer versions.</string>
+
 </resources>
